@@ -4,7 +4,7 @@ This is a Simple and Easy GUI based Desktop App for Nepal Online School. This is
 Due to some error i had to zip the files and upload by splitting. But don't worry i am writing these steps to run the file without any error.
 
 Steps to run Nepal Online School Desktop App:
-1. Download these 5 Files 
+1. Download these 5 Files in Zip format
 2. Extract these files
 3. Then again Extract NOS_Executable file
 4. Hurray we are done! Now, run NOS.exe file
