@@ -1,5 +1,5 @@
 # NOS_Desktop_app Running
-This is a Simple and Easy GUI based Desktop App for Nepal Online School. This is build in JavaFx. Its open source and free to use. For running it you must have Java Installed on you device along with JavaFx.
+This is a Simple and Easy GUI based Desktop App for Nepal Online School. This is build in JavaFx. Its open source and free to use. 
 
 Due to some error i had to zip the files and upload by splitting. But don't worry i am writing these steps to run the file without any error.
 
